@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/devik2.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/devik2.git/static/js/main.3c8f5545.chunk.js",
-    "main.js.map": "/devik2.git/static/js/main.3c8f5545.chunk.js.map",
-    "runtime-main.js": "/devik2.git/static/js/runtime-main.56907f39.js",
-    "runtime-main.js.map": "/devik2.git/static/js/runtime-main.56907f39.js.map",
-    "static/js/2.b55125a7.chunk.js": "/devik2.git/static/js/2.b55125a7.chunk.js",
-    "static/js/2.b55125a7.chunk.js.map": "/devik2.git/static/js/2.b55125a7.chunk.js.map",
-    "index.html": "/devik2.git/index.html",
-    "precache-manifest.1a58e8605198944a1edfed01c40fedfb.js": "/devik2.git/precache-manifest.1a58e8605198944a1edfed01c40fedfb.js",
-    "service-worker.js": "/devik2.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/devik2.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b55125a7.chunk.js.LICENSE.txt": "/devik2.git/static/js/2.b55125a7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/devik2.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/devik2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/devik2/static/js/main.44652e88.chunk.js",
+    "main.js.map": "/devik2/static/js/main.44652e88.chunk.js.map",
+    "runtime-main.js": "/devik2/static/js/runtime-main.abfc5290.js",
+    "runtime-main.js.map": "/devik2/static/js/runtime-main.abfc5290.js.map",
+    "static/js/2.b55125a7.chunk.js": "/devik2/static/js/2.b55125a7.chunk.js",
+    "static/js/2.b55125a7.chunk.js.map": "/devik2/static/js/2.b55125a7.chunk.js.map",
+    "index.html": "/devik2/index.html",
+    "precache-manifest.4ff49224111dd7048fda5b479760210f.js": "/devik2/precache-manifest.4ff49224111dd7048fda5b479760210f.js",
+    "service-worker.js": "/devik2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/devik2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b55125a7.chunk.js.LICENSE.txt": "/devik2/static/js/2.b55125a7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/devik2/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.56907f39.js",
+    "static/js/runtime-main.abfc5290.js",
     "static/js/2.b55125a7.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3c8f5545.chunk.js"
+    "static/js/main.44652e88.chunk.js"
   ]
 }
